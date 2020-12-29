@@ -1,3 +1,6 @@
+Minor tweaks by Mamert
+
+
 =====================
 Multiprocessing Tools
 =====================
